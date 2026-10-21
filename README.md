@@ -90,8 +90,7 @@ This project was created for the course **"Vibe coding and AI agentic engineerin
     </td>
     <td width="50%" align="center">
       <b>Mobile View</b><br><br>
-      <img src="<img width="1512" height="652" alt="Screenshot 2026-10-21 at 06 49 14" src="https://github.com/user-attachments/assets/1037f2b3-bb2f-4ad1-aa0d-e9cff5029c6a" />
-" alt="Mobile view" width="100%">
+       <img src="https://github.com/user-attachments/assets/1037f2b3-bb2f-4ad1-aa0d-e9cff5029c6a" alt="Mobile view" width="100%">
     </td>
   </tr>
 </table>
