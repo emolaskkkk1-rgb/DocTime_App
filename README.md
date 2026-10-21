@@ -3,7 +3,9 @@
 
 **A responsive web platform that helps patients in Georgia find a doctor and book a visit online, with free time slots and prices visible upfront.**
 
-🔗 **Live demo:** [https://your-project.vercel.app](https://your-project.vercel.app) <!-- replace with your Vercel URL -->
+🔗 **Live demo:** [https://your-project.vercel.app](https://doc-time-app.vercel.app/<img width="2048" height="2048" alt="Gemini_Generated_Image_evjvigevjvigevjv" src="https://github.com/user-attachments/assets/c91677ee-ced6-4fe1-a436-b3d9bdb9d5d7" />
+<img width="1376" height="768" alt="Friendly Georgian female doctor  472926 ypo" src="https://github.com/user-attachments/assets/14cbeb43-a6b5-429f-b257-ab52b20ec72d" />
+) <!-- replace with your Vercel URL -->
 
 ---
 
@@ -113,7 +115,7 @@ npm run build
 
 ## Author
 
-**K. S.**
+**K. C.**
 Student, Business and Technology University (BTU), Georgia
 Course: *Vibe coding and AI agentic engineering*
 
