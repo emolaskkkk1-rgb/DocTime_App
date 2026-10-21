@@ -72,11 +72,15 @@ This project was created for the course **"Vibe coding and AI agentic engineerin
 
 | Home / Search | Doctor Profile |
 |---|---|
-| ![Home](<img width="1512" height="781" alt="Screenshot 2026-10-21 at 06 41 24" src="https://github.com/user-attachments/assets/a5363d28-504b-4c55-9cdf-bdcbcd3622a2" />) | ![Profile](<img width="1512" height="779" alt="Screenshot 2026-10-21 at 06 41 51" src="https://github.com/user-attachments/assets/e2c1ada1-bc9c-4a47-9c9c-51daf3c2710e" />) |
+| ![Home](<img width="1512" height="781" alt="Screenshot 2026-10-21 at 06 41 24" src="https://github.com/user-attachments/assets/a5363d28-504b-4c55-9cdf-bdcbcd3622a2" />
+) | ![Profile](<img width="1512" height="779" alt="Screenshot 2026-10-21 at 06 41 51" src="https://github.com/user-attachments/assets/e2c1ada1-bc9c-4a47-9c9c-51daf3c2710e" />
+) |
 
 | Booking | Mobile View |
 |---|---|
-| ![Booking](<img width="1512" height="776" alt="Screenshot 2026-10-21 at 06 42 27" src="https://github.com/user-attachments/assets/0a112490-fb31-413f-a0a3-ed0e76a7ca67" />) | ![Mobile](<img width="1512" height="463" alt="Screenshot 2026-10-21 at 06 43 33" src="https://github.com/user-attachments/assets/6a37d603-0fb3-4390-b509-002f5145d85d" />) |
+| ![Booking](<img width="1512" height="776" alt="Screenshot 2026-10-21 at 06 42 27" src="https://github.com/user-attachments/assets/0a112490-fb31-413f-a0a3-ed0e76a7ca67" />
+) | ![Mobile](<img width="1512" height="463" alt="Screenshot 2026-10-21 at 06 43 33" src="https://github.com/user-attachments/assets/6a37d603-0fb3-4390-b509-002f5145d85d" />
+) |
 
 ## How to Run Locally
 
